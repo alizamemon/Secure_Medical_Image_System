@@ -1,0 +1,30 @@
+{
+    "Dr.Ali": {
+        "password": "ebd2cd25940928e092c3b29e6e10e5a23695eaabfcbff632fa7feda826cd6d40",
+        "role": "physician"
+    },
+    "Sana": {
+        "password": "7cf97f76b628427034068ab560080528997a0f3cae2e417a593a92f04ddf7ba1",
+        "role": "lab"
+    },
+    "Dr.Saif": {
+        "password": "c181551e3c46260a88c51b15e46106f1e1bf4118173ba4b51057fe2a59d263b1",
+        "role": "physician"
+    },
+    "Zahid": {
+        "password": "5dcda443c897e83904a93fac01ba195911a6475bea13360fc80ef72acad6a66d",
+        "role": "lab"
+    },
+    "Dr.Shah": {
+        "password": "ec3514f1b9350d8134cda6810413f9132ac7360a59fb355e36d3a0bd8beeab2e",
+        "role": "physician"
+    },
+    "Dr.Zain": {
+        "password": "adbd5a7e5f9742eddc18c0d2baaadd7ce65291489ea82c5382a3a2923793c152",
+        "role": "physician"
+    },
+    "Dr.aliya": {
+        "password": "130acb067a9b2e69891d38bf1bc95ba08d624d1168954a71ad5f59cf66457da3",
+        "role": "physician"
+    }
+}
