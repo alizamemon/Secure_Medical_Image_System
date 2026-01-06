@@ -49,8 +49,4 @@ Example users:
 }
 Only authenticated users can encrypt/decrypt images.
 
-📜 License
 
-This project is licensed under the MIT License.
-
-Developed by Aliza Memon
